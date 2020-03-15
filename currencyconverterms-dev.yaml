@@ -1,0 +1,8 @@
+currencyconverterms.eureka.instance.zone: zone_8761
+currencyconverterms.eureka.instance.leaseRenewalIntervalInSeconds: 2
+currencyconverterms.eureka.instance.leaseExpirationDurationInSeconds: 5
+currencyconverterms.eureka.client.registerWithEureka: true
+currencyconverterms.eureka.client.fetchRegistry: true
+currencyconverterms.eureka.client.prefer-same-zone-eureka: true
+currencyconverterms.eureka.client.service-registry-url: http://localhost:8761/eureka
+currencyconverterms.hystrix.metrics.polling-interval-ms: 3000
